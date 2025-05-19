@@ -1,4 +1,4 @@
-<h1 align="left">Olá, Eu sou, Murilo Sousa</h1>
+<h1 align="left">Olá, Eu sou Murilo Sousa</h1>
 
 ###
 
