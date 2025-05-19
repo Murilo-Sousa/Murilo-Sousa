@@ -1,12 +1,12 @@
-<img align="right" height="150" src="https://media.tenor.com/_dwP5Ybo8xoAAAAM/mf-doom.gif"  />
-
-###
-
 <h1 align="left">Olá, Eu sou, Murilo Sousa</h1>
 
 ###
 
 <h2 align="left">Desenvolvedor Front-end</h2>
+
+###
+
+<img align="right" height="163" src="https://media.tenor.com/_dwP5Ybo8xoAAAAM/mf-doom.gif"  />
 
 ###
 
