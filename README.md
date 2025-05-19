@@ -1,24 +1,40 @@
-<h1 align="center">Olá, Eu sou, Murilo Sousa</h1>
+<img align="right" height="150" src="https://media.tenor.com/_dwP5Ybo8xoAAAAM/mf-doom.gif"  />
 
 ###
 
-<h2 align="center">Desenvolvedor Front-end</h2>
+<h1 align="left">Olá, Eu sou, Murilo Sousa</h1>
 
 ###
 
-<p align="center">Em formação (SENAI-SP) com experiência em construção de interfaces modernas e otimizadas.</p>
+<h2 align="left">Desenvolvedor Front-end</h2>
 
 ###
 
-<div align="center">
+<p align="left">Atualmente sou estudante de desenvolvimento de sistemas do Serviço Nacional de Aprendizagem Industrial (SENAI), em Cajamar - São Paulo.  Me interesso muito no Front-End, sendo as minhas principais linguagens de programção HTML, CSS e JavaScript. Estou constantemente em busca de evolução na área da tecnologia, pois gosto de utilizar meus conhecimentos em aplicações reais no web-designe de páginas.</p>
+
+###
+
+<h4 align="left">Entre em contato</h4>
+
+###
+
+<br clear="both">
+
+<div align="left">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="35" height="25" alt="linkedin logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="35" height="25" alt="instagram logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="35" height="25" alt="gmail logo"  />
+</div>
+
+###
+
+<div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=Murilo-Sousa&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=pt-br&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=Murilo-Sousa&locale=pt-br&mode=daily&theme=github_dark&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Murilo-Sousa&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=false&order=2" height="112" alt="languages graph"  />
 </div>
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Murilo-Sousa&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=false&order=2" height="105" alt="languages graph"  />
-</div>
+<img src="https://raw.githubusercontent.com/Murilo-Sousa/Murilo-Sousa/output/snake.svg" alt="Snake animation" />
 
 ###
