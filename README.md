@@ -6,10 +6,6 @@
 
 ###
 
-<img align="right" height="163" src="https://media.tenor.com/_dwP5Ybo8xoAAAAM/mf-doom.gif"  />
-
-###
-
 <p align="left">Atualmente sou estudante de desenvolvimento de sistemas do Serviço Nacional de Aprendizagem Industrial (SENAI), em Cajamar - São Paulo.  Me interesso muito no Front-End, sendo as minhas principais linguagens de programção HTML, CSS e JavaScript. Estou constantemente em busca de evolução na área da tecnologia, pois gosto de utilizar meus conhecimentos em aplicações reais no web-designe de páginas.</p>
 
 ###
