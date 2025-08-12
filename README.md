@@ -1,13 +1,13 @@
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=32&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&lines=Ol%C3%A1%2C+sou+Murilo+Sousa;Desenvolvedor+Front-end" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=32&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&lines=Ol%C3%A1%2C+sou+Murilo+Sousa;Desenvolvedor+Web" alt="Typing SVG" />
   </a>
 </div>
 
 ---
 
 ### 👨‍💻 Sobre Mim
-Sou um desenvolvedor Front-end focado em criar interfaces de usuário interativas, dinâmicas e com foco total na experiência do usuário. Atualmente, estou cursando **Desenvolvimento de Sistemas no SENAI** em Cajamar, SP.
+Sou um desenvolvedor Web focado em criar interfaces de usuário interativas, dinâmicas e com foco total na experiência do usuário. Atualmente, estou cursando **Desenvolvimento de Sistemas no SENAI** em Cajamar, SP.
 
 - 🚀 Buscando transformar ideias em aplicações web visualmente atraentes e funcionais
 - 💡 Foco em **design responsivo** e performance
