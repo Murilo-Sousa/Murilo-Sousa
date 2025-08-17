@@ -43,9 +43,15 @@ Sou um desenvolvedor Web focado em criar interfaces de usuário interativas, din
 
 ### 📊 Estatísticas e Projetos em Destaque
 
+<br>
+
 <div align="center">
   <a href="https://github.com/Murilo-Sousa/Caffe-Sublime">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Murilo-Sousa&repo=Caffe-Sublime&theme=github_dark&border_radius=8" />
+  </a>
+
+  <a href="https://github.com/Murilo-Sousa/Multitarefas">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Murilo-Sousa&repo=Multitarefas&theme=github_dark&border_radius=8" />
   </a>
   
   <br><br>
