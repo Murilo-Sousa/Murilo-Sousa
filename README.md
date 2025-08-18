@@ -56,9 +56,14 @@ Sou um desenvolvedor Web focado em criar interfaces de usuário interativas, din
   
   <br><br>
   
-  <img src="https://github-readme-stats.vercel.app/api?username=Murilo-Sousa&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark&locale=pt-br&hide_border=false&border_radius=8" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Murilo-Sousa&locale=pt-br&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=false&border_radius=8" height="150" alt="languages graph" />
-</div>
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=Murilo-Sousa&show_icons=true&theme=github_dark&locale=pt-br&hide_border=true&border_radius=8&include_all_commits=true&count_private=true" 
+    alt="Estatísticas do GitHub"
+  />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Murilo-Sousa&theme=github_dark&locale=pt-br&hide_border=true&border_radius=8&layout=compact&card_width=320&langs_count=5" 
+    alt="Linguagens mais usadas"
+/>
 
 <img src="https://raw.githubusercontent.com/Murilo-Sousa/Murilo-Sousa/output/snake.svg" alt="Snake animation" />
 
