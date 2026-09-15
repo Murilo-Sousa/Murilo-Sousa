@@ -102,9 +102,9 @@ Por isso, procuro desenvolver uma visão que combine **raciocínio técnico, pen
 <p align="left">
   <a href="mailto:lov.devweb@gmail.com">
     <img
-      src="https://img.shields.io/badge/Email-fff?style=flat&logo=gmail&logoColor=red"
-      height="99"
-      alt="E-mail"
+      src="https://img.shields.io/badge/Gmail-fff?style=flat&logo=gmail&logoColor=red"
+      style="width: 150px;
+      alt="Gmail"
     />
   </a>
 </p>
