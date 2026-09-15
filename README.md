@@ -112,5 +112,5 @@ Por isso, procuro desenvolver uma visão que combine **raciocínio técnico, pen
 </p>
 
 <p aling="center">
-> **"A disciplina pode ser difícil por um momento, mas cada pequeno esforço de hoje constrói um futuro do qual você poderá se orgulhar."**
+> <i>**"A disciplina pode ser difícil por um momento, mas cada pequeno esforço de hoje constrói um futuro do qual você poderá se orgulhar."**<\i>
 <\p>
