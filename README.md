@@ -16,9 +16,9 @@ Sou estudante da área de tecnologia, com interesse na interseção entre **dese
 
 Atualmente, direciono meus estudos para **Front-end, Web Design e UI/UX**, buscando desenvolver interfaces que conciliem estética, funcionalidade, acessibilidade e uma experiência de uso consistente.
 
-Minha formação em **Análise e Desenvolvimento de Sistemas** também me proporcionou contato com conceitos de desenvolvimento **Back-end**, ampliando minha compreensão sobre o ciclo de desenvolvimento de aplicações.
+Minha formação em **Desenvolvimento de Sistemas** também me proporcionou contato com conceitos de desenvolvimento **Back-end**, ampliando minha compreensão sobre o ciclo de desenvolvimento de aplicações.
 
-Tenho, ainda, interesse em **Inteligência Artificial** e em suas possibilidades de aplicação no desenvolvimento de produtos e experiências digitais.
+Também utilizo **Inteligência Artificial** de forma prática em meus estudos e projetos, incorporando suas capacidades ao desenvolvimento de soluções, à exploração de ideias e à criação de experiências digitais.
 
 Acredito que a evolução profissional é resultado de aprendizado contínuo, prática e disposição para explorar novas abordagens.
 
@@ -71,7 +71,7 @@ Tenho especial interesse pelo desenvolvimento de produtos e interfaces digitais,
 * 🎨 Cursando **Web Design na FIAP**
 * 💻 Aprofundando conhecimentos em **Front-end**
 * 🧩 Desenvolvendo competências em **UI/UX e prototipagem**
-* 🤖 Explorando aplicações de **Inteligência Artificial**
+* 🤖 Explorando e aplicando a **Inteligência Artificial**
 * 🚀 Desenvolvendo projetos para consolidar conhecimentos técnicos e de design
 * 📖 Mantendo uma rotina contínua de estudos e aperfeiçoamento profissional
 
@@ -83,7 +83,7 @@ Meu objetivo é construir uma carreira sólida na área de tecnologia, atuando n
 
 A longo prazo, pretendo me especializar em **UX/UI** e alcançar uma posição de liderança na área, contribuindo não apenas para a criação de experiências digitais relevantes, mas também para o desenvolvimento de equipes e profissionais.
 
-Busco compreender os problemas de forma estratégica, transformar necessidades em soluções e participar de projetos que gerem valor real para seus usuários.
+Busco compreender problemas de forma estratégica, transformar necessidades em soluções e utilizar as tecnologias disponíveis, incluindo a **Inteligência Artificial**, de maneira consciente e eficiente ao longo desse processo. Acredito que a combinação entre conhecimento técnico, criatividade e o uso adequado dessas ferramentas pode ampliar as possibilidades de criação e resultar em soluções cada vez mais relevantes para os usuários.
 
 ---
 
