@@ -39,7 +39,7 @@ Acredito que a evolução profissional é resultado de aprendizado contínuo, pr
 ### 💻 Desenvolvimento
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,java" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,bootstrap,vscode" />
 </p>
 
 ### 🎨 Design
@@ -111,6 +111,6 @@ Por isso, procuro desenvolver uma visão que combine **raciocínio técnico, pen
   <i>Obrigado pela visita.</i>
 </p>
 
-<p aling="center">
-> <i>**"A disciplina pode ser difícil por um momento, mas cada pequeno esforço de hoje constrói um futuro do qual você poderá se orgulhar."**<\i>
-<\p>
+<p align="center">
+  <i>"A disciplina pode ser difícil por um momento, mas cada pequeno esforço de hoje constrói um futuro do qual você poderá se orgulhar."</i>
+</p>
