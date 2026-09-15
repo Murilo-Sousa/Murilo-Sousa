@@ -50,7 +50,7 @@ Acredito que a evolução profissional é resultado de aprendizado contínuo, pr
 
 ---
 
-## 📺 Áreas de interesse
+## 💭 Áreas de interesse
 
 Tenho especial interesse pelo desenvolvimento de produtos e interfaces digitais, com foco em:
 
