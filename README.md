@@ -39,7 +39,7 @@ Acredito que a evolução profissional é resultado de aprendizado contínuo, pr
 ### 💻 Desenvolvimento
 
 <p>
-  <img src="https://skillicons.dev/icons?i=vscode,html,css,js,bootstrap,python,flask,sqlite,css"/> 
+  <img src="https://skillicons.dev/icons?i=vscode,html,css,js,bootstrap,python,flask,sqlite"/> 
 </p>
 
 ### 🎨 Design
@@ -101,7 +101,11 @@ Por isso, procuro desenvolver uma visão que combine **raciocínio técnico, pen
 
 <p align="left">
   <a href="mailto:lov.devweb@gmail.com">
-    <img src="https://img.shields.io/badge/Email-000?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img
+      src="https://img.shields.io/badge/Email-fff?style=flat&logo=gmail&logoColor=red"
+      height="99"
+      alt="E-mail"
+    />
   </a>
 </p>
 
