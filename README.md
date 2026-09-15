@@ -29,7 +29,7 @@ Acredito que a evolução profissional é resultado de aprendizado contínuo, pr
 🎨 **Web Design — FIAP**
 *Cursando atualmente*
 
-💻 **Análise e Desenvolvimento de Sistemas — SENAI**
+💻 **Desenvolvimento de Sistemas — SENAI**
 *Concluído em dezembro de 2025*
 
 ---
