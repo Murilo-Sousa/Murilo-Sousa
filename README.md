@@ -42,7 +42,7 @@ Acredito que a evolução profissional é resultado de aprendizado contínuo, pr
   <img src="https://skillicons.dev/icons?i=vscode,html,css,js,bootstrap,python,flask,sqlite"/> 
 </p>
 
-### 🎨 Design
+### 🎨 Web Design
 
 <p>
   <img src="https://skillicons.dev/icons?i=figma" />
