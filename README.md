@@ -32,6 +32,9 @@ Acredito que a evolução profissional é resultado de aprendizado contínuo, pr
 💻 **Desenvolvimento de Sistemas — SENAI**
 *Concluído em dezembro de 2025*
 
+🧑🏻‍🎓 **Ensino Médio — SESI**
+*Concluído em dezembro de 2025*
+
 ---
 
 ## 🛠️ Tecnologias & Ferramentas
